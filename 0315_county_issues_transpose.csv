@@ -1,0 +1,1932 @@
+"state","county","abortion","inflation","unemployment","wage"
+"South Carolina","Abbeville County",2,2,,
+"South Carolina","Aiken County",30,37,1,1
+"South Carolina","Anderson County",16,23,1,
+"South Carolina","Beaufort County",25,71,4,1
+"South Carolina","Berkeley County",3,4,2,
+"South Carolina","Charleston County",206,380,14,10
+"South Carolina","Cherokee County",5,6,,
+"South Carolina","Chesterfield County",8,,,
+"South Carolina","Clarendon County",,2,1,
+"South Carolina","Darlington County",3,3,,
+"South Carolina","Dillon County",1,,,
+"South Carolina","Dorchester County",14,23,1,1
+"South Carolina","Florence County",6,23,,
+"South Carolina","Georgetown County",2,2,,1
+"South Carolina","Greenville County",84,173,5,4
+"South Carolina","Greenwood County",4,3,,1
+"South Carolina","Hampton County",1,3,,
+"South Carolina","Horry County",118,253,16,7
+"South Carolina","Jasper County",,3,2,
+"South Carolina","Kershaw County",2,4,,
+"South Carolina","Lancaster County",6,3,,
+"South Carolina","Laurens County",3,7,,
+"South Carolina","Lexington County",45,50,5,2
+"South Carolina","Marlboro County",1,,,
+"South Carolina","Newberry County",,4,,2
+"South Carolina","Oconee County",5,8,,1
+"South Carolina","Orangeburg County",,5,,
+"South Carolina","Pickens County",10,29,4,3
+"South Carolina","Richland County",118,115,9,8
+"South Carolina","Spartanburg County",16,60,,2
+"South Carolina","Sumter County",5,6,,1
+"South Carolina","Union County",1,,,
+"South Carolina","York County",28,46,4,3
+"Louisiana","Acadia Parish",,2,,
+"Louisiana","Ascension Parish",3,6,1,
+"Louisiana","Beauregard Parish",1,1,,1
+"Louisiana","Bossier Parish",2,21,1,2
+"Louisiana","Caddo Parish",14,22,3,
+"Louisiana","Calcasieu Parish",10,24,5,
+"Louisiana","Concordia Parish",,2,1,
+"Louisiana","East Baton Rouge Parish",68,160,6,5
+"Louisiana","Evangeline Parish",1,,,
+"Louisiana","Iberia Parish",2,33,,
+"Louisiana","Jefferson Parish",9,17,2,2
+"Louisiana","Lafayette Parish",93,101,4,10
+"Louisiana","Lincoln Parish",5,2,,
+"Louisiana","Livingston Parish",5,8,,2
+"Louisiana","Orleans Parish",183,257,33,19
+"Louisiana","Ouachita Parish",8,26,2,2
+"Louisiana","Rapides Parish",6,13,,
+"Louisiana","Red River Parish",1,,,
+"Louisiana","St. Landry Parish",3,1,,
+"Louisiana","St. Martin Parish",,2,1,
+"Louisiana","St. Mary Parish",3,13,,
+"Louisiana","St. Tammany Parish",21,66,2,2
+"Louisiana","Tangipahoa Parish",9,13,,
+"Louisiana","Terrebonne Parish",3,6,,1
+"Louisiana","Vermilion Parish",1,3,,
+"Louisiana","Vernon Parish",4,13,,
+"Louisiana","Washington Parish",,5,,
+"Louisiana","West Baton Rouge Parish",2,,,
+"Louisiana","Winn Parish",1,,,
+"Virginia","Accomack County",,15,1,
+"Virginia","Alexandria city",130,216,12,19
+"Virginia","Alleghany County",2,,,
+"Virginia","Appomattox County",,6,,
+"Virginia","Bedford County",,,,1
+"Virginia","Bristol city",4,7,,
+"Virginia","Buena Vista city",2,,,
+"Virginia","Campbell County",1,,,
+"Virginia","Charlottesville city",45,84,9,15
+"Virginia","Chesapeake city",11,57,2,7
+"Virginia","Clarke County",2,,1,
+"Virginia","Colonial Heights city",1,11,,
+"Virginia","Culpeper County",,7,,
+"Virginia","Danville city",33,34,3,
+"Virginia","Emporia city",1,1,,
+"Virginia","Fairfax County",12,43,3,2
+"Virginia","Fairfax city",46,116,7,4
+"Virginia","Falls Church city",17,26,1,1
+"Virginia","Fauquier County",4,5,,
+"Virginia","Floyd County",1,1,,
+"Virginia","Franklin County",1,4,,
+"Virginia","Franklin city",,2,,
+"Virginia","Fredericksburg city",20,92,8,11
+"Virginia","Grayson County",3,,,
+"Virginia","Halifax County",,5,,
+"Virginia","Hampton city",8,6,1,1
+"Virginia","Hanover County",,1,,
+"Virginia","Harrisonburg city",3,5,,
+"Virginia","Hopewell city",3,1,,
+"Virginia","Isle of Wight County",7,1,,
+"Virginia","King William County",,,,1
+"Virginia","Lancaster County",,1,,
+"Virginia","Lexington city",6,2,1,
+"Virginia","Loudoun County",11,51,3,3
+"Virginia","Louisa County",4,1,,
+"Virginia","Lynchburg city",56,70,2,
+"Virginia","Manassas city",10,12,1,1
+"Virginia","Martinsville city",5,1,,
+"Virginia","Mecklenburg County",11,25,1,
+"Virginia","Montgomery County",23,19,3,1
+"Virginia","Newport News city",11,31,,1
+"Virginia","Norfolk city",45,51,3,4
+"Virginia","Nottoway County",1,2,,
+"Virginia","Orange County",4,,,1
+"Virginia","Page County",,1,,
+"Virginia","Petersburg city",,4,,
+"Virginia","Poquoson city",2,6,,
+"Virginia","Portsmouth city",15,9,,2
+"Virginia","Prince Edward County",3,,,1
+"Virginia","Prince William County",5,15,,
+"Virginia","Radford city",2,1,,
+"Virginia","Richmond city",147,331,20,32
+"Virginia","Roanoke city",30,69,4,2
+"Virginia","Rockingham County",,2,,
+"Virginia","Russell County",1,2,,
+"Virginia","Salem city",12,16,,1
+"Virginia","Scott County",,1,,
+"Virginia","Shenandoah County",1,4,1,
+"Virginia","Staunton city",4,3,3,
+"Virginia","Suffolk city",8,8,2,
+"Virginia","Tazewell County",,1,,
+"Virginia","Virginia Beach city",121,175,17,12
+"Virginia","Warren County",,5,1,1
+"Virginia","Washington County",3,,,
+"Virginia","Waynesboro city",4,19,3,
+"Virginia","Williamsburg city",9,25,2,1
+"Virginia","Winchester city",12,25,1,3
+"Virginia","Wise County",4,5,,1
+"Virginia","Wythe County",2,8,,
+"Idaho","Ada County",24,49,3,3
+"Idaho","Bannock County",5,7,2,2
+"Idaho","Blaine County",5,11,,
+"Idaho","Bonner County",3,7,1,1
+"Idaho","Bonneville County",27,12,1,3
+"Idaho","Boundary County",,1,,
+"Idaho","Canyon County",19,22,1,1
+"Idaho","Cassia County",,1,,
+"Idaho","Elmore County",1,3,,
+"Idaho","Franklin County",2,4,,
+"Idaho","Fremont County",,1,,
+"Idaho","Gem County",9,,1,
+"Idaho","Idaho County",,3,,1
+"Idaho","Jefferson County",,2,,
+"Idaho","Kootenai County",15,26,1,1
+"Idaho","Latah County",6,20,,1
+"Idaho","Lemhi County",1,1,,
+"Idaho","Madison County",1,6,,
+"Idaho","Minidoka County",2,1,,
+"Idaho","Nez Perce County",8,15,,
+"Idaho","Owyhee County",,1,,
+"Idaho","Power County",,1,,
+"Idaho","Teton County",,1,,
+"Idaho","Twin Falls County",13,20,,2
+"Idaho","Washington County",1,3,,
+"Kentucky","Adair County",2,2,,
+"Kentucky","Allen County",1,3,,
+"Kentucky","Anderson County",2,7,,
+"Kentucky","Ballard County",,1,,
+"Kentucky","Barren County",2,3,,
+"Kentucky","Bell County",10,,1,
+"Kentucky","Boone County",18,19,,2
+"Kentucky","Boyd County",2,9,2,
+"Kentucky","Boyle County",,1,,
+"Kentucky","Bracken County",,1,,
+"Kentucky","Bullitt County",7,11,,
+"Kentucky","Butler County",,1,,
+"Kentucky","Caldwell County",1,,,
+"Kentucky","Calloway County",6,14,,2
+"Kentucky","Campbell County",9,20,1,
+"Kentucky","Carroll County",1,1,,
+"Kentucky","Carter County",,,,1
+"Kentucky","Christian County",2,4,,
+"Kentucky","Clark County",5,10,,
+"Kentucky","Clay County",8,3,,
+"Kentucky","Daviess County",11,11,5,3
+"Kentucky","Edmonson County",,1,,
+"Kentucky","Fleming County",,3,,
+"Kentucky","Floyd County",1,,1,
+"Kentucky","Franklin County",34,20,1,
+"Kentucky","Grant County",,11,,
+"Kentucky","Graves County",,3,,
+"Kentucky","Greenup County",1,4,,
+"Kentucky","Hardin County",13,21,,
+"Kentucky","Harlan County",1,,,
+"Kentucky","Hart County",1,,,
+"Kentucky","Henderson County",4,3,1,
+"Kentucky","Hopkins County",1,,,1
+"Kentucky","Jefferson County",5,14,1,2
+"Kentucky","Jessamine County",1,6,,
+"Kentucky","Johnson County",1,4,,
+"Kentucky","Kenton County",26,30,1,
+"Kentucky","Knox County",,3,,
+"Kentucky","Larue County",1,,1,
+"Kentucky","Laurel County",2,7,1,
+"Kentucky","Lawrence County",1,,,
+"Kentucky","Letcher County",2,,,
+"Kentucky","Lincoln County",1,,,
+"Kentucky","Livingston County",,1,,
+"Kentucky","Madison County",8,10,2,
+"Kentucky","Marion County",1,,,
+"Kentucky","Marshall County",1,,,
+"Kentucky","Mason County",1,5,,
+"Kentucky","McCracken County",23,28,1,
+"Kentucky","Meade County",1,,,
+"Kentucky","Mercer County",,1,1,1
+"Kentucky","Monroe County",,1,,
+"Kentucky","Montgomery County",4,,,
+"Kentucky","Nelson County",7,2,,
+"Kentucky","Ohio County",2,9,1,
+"Kentucky","Oldham County",25,10,,
+"Kentucky","Perry County",10,6,1,
+"Kentucky","Pike County",2,5,1,
+"Kentucky","Powell County",,1,,
+"Kentucky","Pulaski County",7,6,3,
+"Kentucky","Rowan County",1,4,2,
+"Kentucky","Russell County",,1,,
+"Kentucky","Scott County",2,4,,
+"Kentucky","Shelby County",1,7,,
+"Kentucky","Simpson County",,1,1,
+"Kentucky","Taylor County",,1,1,
+"Kentucky","Trigg County",,2,,
+"Kentucky","Union County",,5,,
+"Kentucky","Warren County",31,38,2,6
+"Kentucky","Wayne County",,1,,
+"Kentucky","Whitley County",1,4,2,
+"Kentucky","Wolfe County",,1,,
+"Kentucky","Woodford County",2,2,,
+"Missouri","Adair County",2,12,,
+"Missouri","Andrew County",1,,,
+"Missouri","Audrain County",,,,3
+"Missouri","Barry County",,1,,
+"Missouri","Barton County",1,1,,
+"Missouri","Boone County",31,59,3,1
+"Missouri","Buchanan County",8,8,1,2
+"Missouri","Butler County",2,11,,
+"Missouri","Callaway County",3,7,,
+"Missouri","Camden County",,1,1,1
+"Missouri","Cape Girardeau County",4,12,,2
+"Missouri","Cass County",5,11,,
+"Missouri","Christian County",3,4,,
+"Missouri","Clay County",12,17,2,3
+"Missouri","Cole County",18,19,4,6
+"Missouri","Cooper County",2,,,
+"Missouri","Crawford County",,4,1,
+"Missouri","DeKalb County",2,3,1,
+"Missouri","Dunklin County",5,10,,
+"Missouri","Franklin County",,2,,
+"Missouri","Greene County",,2,2,1
+"Missouri","Grundy County",,3,,
+"Missouri","Henry County",43,41,7,1
+"Missouri","Howard County",1,,,
+"Missouri","Howell County",8,2,,1
+"Missouri","Jackson County",314,449,41,43
+"Missouri","Jasper County",13,12,,
+"Missouri","Jefferson County",2,5,1,
+"Missouri","Johnson County",,2,,
+"Missouri","Laclede County",14,11,,
+"Missouri","Lafayette County",2,2,,
+"Missouri","Lincoln County",1,4,,
+"Missouri","Livingston County",3,,,
+"Missouri","Madison County",,4,,
+"Missouri","Marion County",1,5,1,
+"Missouri","McDonald County",,,1,
+"Missouri","Miller County",1,,,
+"Missouri","Mississippi County",,1,,
+"Missouri","Moniteau County",,8,1,1
+"Missouri","Montgomery County",1,,,
+"Missouri","New Madrid County",2,,,
+"Missouri","Newton County",6,4,1,
+"Missouri","Nodaway County",13,28,6,4
+"Missouri","Oregon County",1,1,,
+"Missouri","Pemiscot County",1,,,1
+"Missouri","Perry County",,,,1
+"Missouri","Pettis County",1,3,,
+"Missouri","Phelps County",13,12,,1
+"Missouri","Platte County",3,14,,
+"Missouri","Polk County",1,,1,
+"Missouri","Pulaski County",,,,1
+"Missouri","Putnam County",3,17,,
+"Missouri","Randolph County",2,,,
+"Missouri","Ripley County",,1,,
+"Missouri","Saline County",,3,,1
+"Missouri","Scott County",,6,,
+"Missouri","Shannon County",2,,,
+"Missouri","St. Charles County",16,27,1,1
+"Missouri","St. Francois County",6,24,,
+"Missouri","St. Louis County",56,79,5,5
+"Missouri","St. Louis city",116,125,15,16
+"Missouri","Stoddard County",1,8,,
+"Missouri","Stone County",,1,,1
+"Missouri","Taney County",6,10,1,1
+"Missouri","Texas County",6,18,1,
+"Missouri","Vernon County",4,6,,
+"Missouri","Warren County",3,3,,
+"Missouri","Washington County",,11,4,
+"Missouri","Wayne County",,,1,
+"Missouri","Webster County",,3,,
+"Colorado","Adams County",31,35,10,1
+"Colorado","Arapahoe County",69,100,7,3
+"Colorado","Archuleta County",8,22,,1
+"Colorado","Baca County",,,1,
+"Colorado","Boulder County",97,133,14,18
+"Colorado","Broomfield County",5,15,,2
+"Colorado","Chaffee County",1,4,1,
+"Colorado","Denver County",681,1132,85,66
+"Colorado","Douglas County",27,67,2,1
+"Colorado","Eagle County",5,24,2,
+"Colorado","El Paso County",168,320,26,10
+"Colorado","Elbert County",3,4,2,
+"Colorado","Fremont County",,1,,
+"Colorado","Garfield County",3,10,1,1
+"Colorado","Grand County",,12,,
+"Colorado","Gunnison County",,2,,
+"Colorado","Hinsdale County",,2,,
+"Colorado","Jefferson County",36,113,,4
+"Colorado","Kit Carson County",,1,,
+"Colorado","La Plata County",9,9,,2
+"Colorado","Lake County",4,1,,2
+"Colorado","Larimer County",60,79,6,15
+"Colorado","Las Animas County",,1,,
+"Colorado","Logan County",5,4,,
+"Colorado","Mesa County",41,44,3,
+"Colorado","Moffat County",2,1,,
+"Colorado","Montezuma County",1,,,
+"Colorado","Montrose County",,9,,
+"Colorado","Morgan County",,1,,
+"Colorado","Otero County",,1,,
+"Colorado","Ouray County",,1,,
+"Colorado","Phillips County",,1,,
+"Colorado","Pitkin County",6,10,,1
+"Colorado","Prowers County",,,1,
+"Colorado","Pueblo County",8,24,1,
+"Colorado","Routt County",1,4,1,
+"Colorado","Summit County",2,14,1,
+"Colorado","Teller County",2,3,1,
+"Colorado","Weld County",75,48,2,1
+"Colorado","Yuma County",3,1,,1
+"Illinois","Adams County",2,24,,1
+"Illinois","Alexander County",,1,,
+"Illinois","Boone County",,,,1
+"Illinois","Brown County",,1,,
+"Illinois","Bureau County",1,,,1
+"Illinois","Cass County",2,1,,
+"Illinois","Champaign County",18,39,5,8
+"Illinois","Clay County",,1,,
+"Illinois","Clinton County",,1,,
+"Illinois","Coles County",7,9,,
+"Illinois","Cook County",117,303,21,22
+"Illinois","Crawford County",,,1,
+"Illinois","De Witt County",,1,,
+"Illinois","DeKalb County",5,6,,
+"Illinois","Douglas County",1,,,
+"Illinois","DuPage County",1606,2906,262,195
+"Illinois","Edwards County",,1,,
+"Illinois","Effingham County",3,8,,
+"Illinois","Fayette County",3,,,
+"Illinois","Grundy County",,,1,
+"Illinois","Henry County",2,1,,
+"Illinois","Jackson County",14,14,2,2
+"Illinois","Jefferson County",8,1,,3
+"Illinois","Jo Daviess County",1,4,,1
+"Illinois","Kane County",20,68,2,18
+"Illinois","Kankakee County",,11,,
+"Illinois","Kendall County",6,9,,1
+"Illinois","Knox County",3,4,,
+"Illinois","LaSalle County",6,5,2,
+"Illinois","Lake County",77,68,12,5
+"Illinois","Lawrence County",,,1,
+"Illinois","Lee County",,2,,
+"Illinois","Livingston County",3,,,
+"Illinois","Logan County",3,1,,
+"Illinois","Macon County",14,32,4,
+"Illinois","Madison County",37,15,4,1
+"Illinois","Marion County",2,1,,
+"Illinois","Massac County",1,,,
+"Illinois","McDonough County",11,1,,
+"Illinois","McHenry County",59,83,4,3
+"Illinois","McLean County",18,21,2,
+"Illinois","Montgomery County",,2,,
+"Illinois","Morgan County",,1,,
+"Illinois","Ogle County",,2,,
+"Illinois","Peoria County",8,18,2,2
+"Illinois","Piatt County",,1,1,
+"Illinois","Putnam County",,1,,
+"Illinois","Randolph County",6,,,
+"Illinois","Richland County",7,6,,
+"Illinois","Rock Island County",12,33,4,1
+"Illinois","Saline County",1,,,
+"Illinois","Sangamon County",63,47,4,1
+"Illinois","Schuyler County",4,14,,
+"Illinois","Shelby County",1,,1,
+"Illinois","St. Clair County",35,52,4,2
+"Illinois","Stephenson County",,3,,
+"Illinois","Tazewell County",8,6,,
+"Illinois","Vermilion County",15,14,3,
+"Illinois","Wabash County",,1,,
+"Illinois","Washington County",5,1,1,1
+"Illinois","Wayne County",2,,,
+"Illinois","White County",,1,,
+"Illinois","Whiteside County",1,8,,
+"Illinois","Will County",81,166,8,3
+"Illinois","Williamson County",20,5,4,
+"Illinois","Winnebago County",37,79,5,2
+"Illinois","Woodford County",,1,,1
+"Mississippi","Adams County",,10,1,
+"Mississippi","Alcorn County",2,10,,
+"Mississippi","Bolivar County",2,1,,1
+"Mississippi","Choctaw County",1,1,,
+"Mississippi","Clarke County",1,2,,
+"Mississippi","Clay County",,1,,
+"Mississippi","Copiah County",,1,,1
+"Mississippi","DeSoto County",6,27,1,2
+"Mississippi","Forrest County",27,28,2,3
+"Mississippi","George County",1,,,
+"Mississippi","Grenada County",1,,,
+"Mississippi","Hancock County",,,,1
+"Mississippi","Harrison County",29,46,5,2
+"Mississippi","Hinds County",59,42,4,5
+"Mississippi","Jackson County",37,37,5,3
+"Mississippi","Jones County",,4,,
+"Mississippi","Lafayette County",22,64,4,2
+"Mississippi","Lauderdale County",1,4,1,
+"Mississippi","Lee County",15,11,1,
+"Mississippi","Leflore County",,1,,
+"Mississippi","Lincoln County",1,3,,
+"Mississippi","Lowndes County",3,5,1,
+"Mississippi","Madison County",9,9,,
+"Mississippi","Marshall County",1,1,,
+"Mississippi","Monroe County",,,2,
+"Mississippi","Neshoba County",,6,,
+"Mississippi","Oktibbeha County",4,25,,1
+"Mississippi","Panola County",,1,,
+"Mississippi","Pearl River County",,4,1,
+"Mississippi","Pontotoc County",1,2,,
+"Mississippi","Rankin County",2,5,2,
+"Mississippi","Smith County",,1,,
+"Mississippi","Sunflower County",1,,,
+"Mississippi","Tate County",,1,,
+"Mississippi","Union County",,3,,
+"Mississippi","Warren County",8,10,2,
+"Mississippi","Washington County",3,,,
+"Mississippi","Winston County",1,2,,
+"Mississippi","Yazoo County",,3,,
+"Nebraska","Adams County",,4,,
+"Nebraska","Box Butte County",4,1,,
+"Nebraska","Buffalo County",,1,,
+"Nebraska","Burt County",,1,,
+"Nebraska","Cass County",,1,,
+"Nebraska","Cheyenne County",,3,,
+"Nebraska","Dakota County",1,,,
+"Nebraska","Dawson County",5,3,,
+"Nebraska","Dodge County",7,11,2,
+"Nebraska","Douglas County",,1,,
+"Nebraska","Gosper County",,1,,
+"Nebraska","Hall County",4,1,,
+"Nebraska","Kearney County",,2,,
+"Nebraska","Keith County",,1,,
+"Nebraska","Kimball County",,1,,
+"Nebraska","Lancaster County",73,148,6,6
+"Nebraska","Lincoln County",9,7,1,
+"Nebraska","Madison County",4,,1,16
+"Nebraska","Nuckolls County",,2,,
+"Nebraska","Otoe County",4,4,,
+"Nebraska","Phelps County",,2,,
+"Nebraska","Platte County",,5,1,
+"Nebraska","Sarpy County",43,65,2,
+"Nebraska","Saunders County",5,1,,
+"Nebraska","Scotts Bluff County",11,19,2,
+"Nebraska","Thayer County",,1,,
+"Nebraska","Thurston County",250,238,16,16
+"Nebraska","Washington County",,3,1,
+"Nebraska","Wayne County",1,2,,
+"Ohio","Adams County",1,,,
+"Ohio","Allen County",7,16,2,1
+"Ohio","Ashland County",,,,1
+"Ohio","Ashtabula County",3,10,,
+"Ohio","Belmont County",1,1,,
+"Ohio","Brown County",,1,,
+"Ohio","Butler County",1,9,,1
+"Ohio","Carroll County",,2,,
+"Ohio","Champaign County",2,1,,
+"Ohio","Clark County",,4,,
+"Ohio","Clermont County",3,5,1,
+"Ohio","Clinton County",,2,,
+"Ohio","Columbiana County",,2,,
+"Ohio","Coshocton County",2,7,,
+"Ohio","Crawford County",1,3,,
+"Ohio","Cuyahoga County",414,598,44,60
+"Ohio","Darke County",,3,,3
+"Ohio","Defiance County",3,9,,
+"Ohio","Delaware County",,3,,
+"Ohio","Erie County",,1,,
+"Ohio","Fairfield County",2,8,1,2
+"Ohio","Fayette County",1,,,
+"Ohio","Franklin County",390,640,50,48
+"Ohio","Fulton County",,5,,
+"Ohio","Gallia County",,1,,
+"Ohio","Geauga County",2,,,
+"Ohio","Greene County",7,34,,2
+"Ohio","Guernsey County",,3,,
+"Ohio","Hamilton County",291,552,35,31
+"Ohio","Hancock County",8,11,1,2
+"Ohio","Harrison County",6,4,,3
+"Ohio","Henry County",,2,,
+"Ohio","Highland County",,2,,
+"Ohio","Hocking County",,2,,
+"Ohio","Holmes County",,,,4
+"Ohio","Huron County",1,1,,
+"Ohio","Jackson County",,1,,
+"Ohio","Jefferson County",2,7,,10
+"Ohio","Knox County",2,3,,2
+"Ohio","Lake County",6,20,3,
+"Ohio","Lawrence County",1,4,1,
+"Ohio","Licking County",24,39,1,2
+"Ohio","Logan County",,3,,
+"Ohio","Lorain County",14,30,2,1
+"Ohio","Lucas County",82,107,10,7
+"Ohio","Mahoning County",18,20,2,
+"Ohio","Medina County",8,31,1,
+"Ohio","Mercer County",,10,,
+"Ohio","Miami County",4,6,,1
+"Ohio","Monroe County",,3,,
+"Ohio","Montgomery County",78,125,7,5
+"Ohio","Morrow County",6,5,,1
+"Ohio","Muskingum County",5,9,,1
+"Ohio","Ottawa County",1,2,,
+"Ohio","Paulding County",,2,,
+"Ohio","Pickaway County",2,,,
+"Ohio","Pike County",6,18,1,
+"Ohio","Portage County",35,22,,
+"Ohio","Preble County",,3,,
+"Ohio","Putnam County",,2,,
+"Ohio","Richland County",20,37,,1
+"Ohio","Ross County",2,6,2,
+"Ohio","Sandusky County",4,23,,
+"Ohio","Scioto County",2,1,,
+"Ohio","Seneca County",,2,,
+"Ohio","Shelby County",4,5,1,1
+"Ohio","Stark County",26,48,6,1
+"Ohio","Summit County",53,86,6,6
+"Ohio","Trumbull County",19,51,2,3
+"Ohio","Tuscarawas County",10,21,,1
+"Ohio","Union County",15,30,1,1
+"Ohio","Van Wert County",3,13,,
+"Ohio","Vinton County",2,3,,
+"Ohio","Warren County",18,54,14,2
+"Ohio","Washington County",14,23,,
+"Ohio","Wayne County",12,36,1,1
+"Ohio","Williams County",4,8,4,1
+"Ohio","Wood County",23,21,,6
+"Ohio","Wyandot County",,1,1,
+"Pennsylvania","Adams County",8,10,,
+"Pennsylvania","Allegheny County",716,862,91,86
+"Pennsylvania","Armstrong County",8,8,1,
+"Pennsylvania","Beaver County",12,12,,1
+"Pennsylvania","Bedford County",1,1,,
+"Pennsylvania","Berks County",46,46,4,5
+"Pennsylvania","Blair County",11,17,,1
+"Pennsylvania","Bradford County",1,,,
+"Pennsylvania","Bucks County",75,74,7,5
+"Pennsylvania","Butler County",15,41,3,3
+"Pennsylvania","Cambria County",5,20,,2
+"Pennsylvania","Carbon County",23,15,2,
+"Pennsylvania","Centre County",32,45,,2
+"Pennsylvania","Chester County",104,165,11,3
+"Pennsylvania","Clarion County",18,8,1,
+"Pennsylvania","Clearfield County",4,1,,
+"Pennsylvania","Clinton County",,1,,
+"Pennsylvania","Columbia County",4,8,,
+"Pennsylvania","Crawford County",3,5,,1
+"Pennsylvania","Cumberland County",28,76,4,1
+"Pennsylvania","Dauphin County",151,160,10,12
+"Pennsylvania","Delaware County",36,43,,5
+"Pennsylvania","Erie County",104,91,7,6
+"Pennsylvania","Fayette County",5,5,,1
+"Pennsylvania","Franklin County",44,25,3,
+"Pennsylvania","Greene County",,1,,
+"Pennsylvania","Huntingdon County",3,6,,
+"Pennsylvania","Indiana County",11,10,,
+"Pennsylvania","Jefferson County",3,2,1,2
+"Pennsylvania","Lackawanna County",34,71,6,4
+"Pennsylvania","Lancaster County",64,91,12,9
+"Pennsylvania","Lawrence County",2,7,,
+"Pennsylvania","Lebanon County",1,1,,
+"Pennsylvania","Lehigh County",39,106,6,3
+"Pennsylvania","Luzerne County",27,35,1,3
+"Pennsylvania","Lycoming County",7,14,,2
+"Pennsylvania","McKean County",5,10,,
+"Pennsylvania","Mercer County",2,8,,2
+"Pennsylvania","Monroe County",19,14,2,1
+"Pennsylvania","Montgomery County",83,103,8,5
+"Pennsylvania","Montour County",1,3,1,1
+"Pennsylvania","Northampton County",49,68,3,
+"Pennsylvania","Northumberland County",4,5,,
+"Pennsylvania","Philadelphia County",1422,3530,111,84
+"Pennsylvania","Pike County",,2,,
+"Pennsylvania","Potter County",,2,,
+"Pennsylvania","Schuylkill County",23,34,2,2
+"Pennsylvania","Snyder County",2,3,3,
+"Pennsylvania","Somerset County",2,32,,
+"Pennsylvania","Susquehanna County",4,10,1,1
+"Pennsylvania","Tioga County",,2,,
+"Pennsylvania","Union County",15,10,,
+"Pennsylvania","Venango County",3,9,1,
+"Pennsylvania","Warren County",1,5,1,1
+"Pennsylvania","Washington County",5,27,,1
+"Pennsylvania","Wayne County",11,24,,
+"Pennsylvania","Westmoreland County",37,49,,1
+"Pennsylvania","Wyoming County",5,13,1,1
+"Pennsylvania","York County",114,147,7,31
+"Washington","Adams County",,1,,
+"Washington","Asotin County",2,8,,
+"Washington","Benton County",22,45,3,1
+"Washington","Chelan County",5,11,1,2
+"Washington","Clallam County",23,60,1,4
+"Washington","Clark County",155,183,11,7
+"Washington","Cowlitz County",9,7,1,1
+"Washington","Franklin County",5,11,,
+"Washington","Grant County",3,6,1,
+"Washington","Grays Harbor County",2,7,,
+"Washington","Island County",2,2,,
+"Washington","Jefferson County",5,15,1,
+"Washington","King County",1137,1831,149,180
+"Washington","Kitsap County",32,47,4,19
+"Washington","Kittitas County",6,14,1,
+"Washington","Lewis County",1,9,1,1
+"Washington","Mason County",8,14,3,
+"Washington","Okanogan County",,,1,
+"Washington","Pacific County",,1,,
+"Washington","Pend Oreille County",2,,1,
+"Washington","Pierce County",172,307,24,27
+"Washington","Skagit County",,14,1,3
+"Washington","Snohomish County",127,181,22,11
+"Washington","Spokane County",140,170,17,5
+"Washington","Stevens County",1,4,,1
+"Washington","Thurston County",95,148,8,15
+"Washington","Walla Walla County",17,10,1,1
+"Washington","Whatcom County",30,60,7,7
+"Washington","Whitman County",3,5,,2
+"Washington","Yakima County",15,20,3,2
+"Vermont","Addison County",6,6,,
+"Vermont","Bennington County",3,6,,1
+"Vermont","Chittenden County",42,102,1,4
+"Vermont","Franklin County",,,1,
+"Vermont","Grand Isle County",1,4,,
+"Vermont","Lamoille County",1,,,
+"Vermont","Orange County",6,1,,
+"Vermont","Orleans County",1,3,,1
+"Vermont","Rutland County",10,5,,
+"Vermont","Washington County",15,7,2,1
+"Vermont","Windham County",6,7,1,
+"Vermont","Windsor County",3,6,,
+"Florida","Alachua County",69,127,11,6
+"Florida","Bay County",30,76,12,
+"Florida","Bradford County",,,1,
+"Florida","Brevard County",82,335,11,11
+"Florida","Broward County",569,887,35,15
+"Florida","Calhoun County",3,11,2,1
+"Florida","Charlotte County",15,14,,2
+"Florida","Citrus County",14,23,,
+"Florida","Clay County",5,40,2,1
+"Florida","Collier County",86,183,19,9
+"Florida","Columbia County",3,9,,
+"Florida","DeSoto County",,2,,
+"Florida","Duval County",159,363,21,13
+"Florida","Escambia County",80,135,15,4
+"Florida","Flagler County",10,28,4,1
+"Florida","Gadsden County",,4,7,
+"Florida","Gilchrist County",2,2,,
+"Florida","Hamilton County",,1,,
+"Florida","Hernando County",4,13,,
+"Florida","Highlands County",8,10,,
+"Florida","Hillsborough County",584,983,69,37
+"Florida","Holmes County",1,,,
+"Florida","Indian River County",38,83,3,
+"Florida","Jackson County",4,5,,1
+"Florida","Jefferson County",,4,,
+"Florida","Lake County",42,75,7,3
+"Florida","Lee County",155,288,21,2
+"Florida","Leon County",73,100,16,7
+"Florida","Manatee County",29,52,6,2
+"Florida","Marion County",46,85,7,7
+"Florida","Martin County",11,26,2,
+"Florida","Miami-Dade County",503,1557,88,63
+"Florida","Monroe County",15,34,5,1
+"Florida","Nassau County",20,33,2,1
+"Florida","Okaloosa County",31,84,4,2
+"Florida","Okeechobee County",2,2,,
+"Florida","Orange County",416,1089,81,61
+"Florida","Osceola County",12,30,1,3
+"Florida","Palm Beach County",464,997,46,30
+"Florida","Pasco County",15,15,2,
+"Florida","Pinellas County",124,225,15,10
+"Florida","Polk County",89,142,5,2
+"Florida","Putnam County",,3,1,
+"Florida","Santa Rosa County",7,12,1,2
+"Florida","Sarasota County",111,223,20,16
+"Florida","Seminole County",20,52,1,4
+"Florida","St. Johns County",5,2,,1
+"Florida","St. Lucie County",6,12,4,
+"Florida","Sumter County",,1,,
+"Florida","Suwannee County",1,,,
+"Florida","Union County",,1,,
+"Florida","Volusia County",122,226,19,10
+"Florida","Washington County",1,2,,
+"North Carolina","Alamance County",9,13,1,1
+"North Carolina","Alexander County",3,3,,
+"North Carolina","Anson County",,1,,1
+"North Carolina","Ashe County",1,1,,1
+"North Carolina","Avery County",2,1,,
+"North Carolina","Beaufort County",1,6,2,
+"North Carolina","Bladen County",1,,,
+"North Carolina","Brunswick County",44,62,1,
+"North Carolina","Buncombe County",77,173,5,16
+"North Carolina","Burke County",2,5,,1
+"North Carolina","Cabarrus County",31,32,,1
+"North Carolina","Caldwell County",1,9,,
+"North Carolina","Carteret County",2,25,1,
+"North Carolina","Catawba County",11,74,4,1
+"North Carolina","Chatham County",,1,1,1
+"North Carolina","Cleveland County",6,5,,
+"North Carolina","Columbus County",,1,,
+"North Carolina","Craven County",29,127,6,1
+"North Carolina","Cumberland County",29,51,2,4
+"North Carolina","Dare County",1,3,2,
+"North Carolina","Davidson County",6,10,2,
+"North Carolina","Davie County",1,,1,1
+"North Carolina","Duplin County",3,6,3,
+"North Carolina","Durham County",93,112,9,11
+"North Carolina","Edgecombe County",1,,,1
+"North Carolina","Forsyth County",57,63,12,3
+"North Carolina","Franklin County",,1,,
+"North Carolina","Gaston County",6,31,,1
+"North Carolina","Granville County",1,,,
+"North Carolina","Guilford County",54,114,8,8
+"North Carolina","Halifax County",1,,,
+"North Carolina","Harnett County",3,2,,
+"North Carolina","Haywood County",5,9,3,
+"North Carolina","Henderson County",9,11,1,
+"North Carolina","Hertford County",10,12,1,
+"North Carolina","Hoke County",2,1,,
+"North Carolina","Iredell County",25,48,5,1
+"North Carolina","Jackson County",8,7,,1
+"North Carolina","Johnston County",11,21,,
+"North Carolina","Lee County",5,2,,
+"North Carolina","Lenoir County",2,3,,
+"North Carolina","Lincoln County",,1,,
+"North Carolina","Macon County",4,12,9,
+"North Carolina","Madison County",1,1,,
+"North Carolina","McDowell County",1,1,2,
+"North Carolina","Mecklenburg County",387,743,59,35
+"North Carolina","Mitchell County",,6,,1
+"North Carolina","Montgomery County",,2,,
+"North Carolina","Moore County",5,12,,
+"North Carolina","Nash County",1,8,1,
+"North Carolina","New Hanover County",46,50,3,5
+"North Carolina","Onslow County",3,16,,1
+"North Carolina","Orange County",56,65,2,7
+"North Carolina","Pasquotank County",2,5,,
+"North Carolina","Pender County",1,4,,
+"North Carolina","Perquimans County",,1,,
+"North Carolina","Person County",1,2,,1
+"North Carolina","Pitt County",19,32,3,2
+"North Carolina","Polk County",,2,,
+"North Carolina","Randolph County",2,10,2,1
+"North Carolina","Richmond County",,2,,
+"North Carolina","Robeson County",3,1,,
+"North Carolina","Rockingham County",2,6,,
+"North Carolina","Rowan County",11,15,,3
+"North Carolina","Rutherford County",5,7,2,1
+"North Carolina","Sampson County",,3,,
+"North Carolina","Stokes County",3,3,,
+"North Carolina","Surry County",1,4,,
+"North Carolina","Transylvania County",6,24,1,1
+"North Carolina","Union County",46,37,3,3
+"North Carolina","Vance County",1,,,
+"North Carolina","Wake County",358,618,46,40
+"North Carolina","Watauga County",8,7,,1
+"North Carolina","Wayne County",9,17,,4
+"North Carolina","Wilkes County",,3,,
+"North Carolina","Wilson County",,3,,
+"North Carolina","Yancey County",,1,,
+"California","Alameda County",397,732,48,243
+"California","Amador County",,2,,
+"California","Butte County",18,38,2,3
+"California","Contra Costa County",102,271,12,12
+"California","Del Norte County",,2,,1
+"California","El Dorado County",27,25,2,1
+"California","Fresno County",83,162,13,12
+"California","Humboldt County",12,26,4,
+"California","Imperial County",6,6,,1
+"California","Inyo County",2,3,2,
+"California","Kern County",58,122,5,11
+"California","Kings County",8,13,1,
+"California","Lake County",6,10,,
+"California","Lassen County",4,3,,2
+"California","Los Angeles County",3053,4900,345,417
+"California","Madera County",1,9,3,1
+"California","Marin County",32,93,9,3
+"California","Mendocino County",,3,,
+"California","Merced County",4,30,1,1
+"California","Mono County",1,2,,1
+"California","Monterey County",46,54,3,4
+"California","Napa County",161,51,4,3
+"California","Nevada County",12,29,1,2
+"California","Orange County",479,1270,95,51
+"California","Placer County",34,95,8,2
+"California","Riverside County",301,464,41,23
+"California","Sacramento County",275,524,66,44
+"California","San Benito County",,3,,
+"California","San Bernardino County",156,356,27,53
+"California","San Diego County",906,1972,97,76
+"California","San Francisco County",602,1244,113,74
+"California","San Joaquin County",42,144,3,2
+"California","San Luis Obispo County",22,50,5,1
+"California","San Mateo County",64,190,8,10
+"California","Santa Barbara County",165,231,9,18
+"California","Santa Clara County",286,662,51,38
+"California","Santa Cruz County",32,62,3,7
+"California","Shasta County",33,34,1,4
+"California","Siskiyou County",11,3,1,1
+"California","Solano County",44,72,6,5
+"California","Sonoma County",59,90,4,1
+"California","Stanislaus County",42,39,3,6
+"California","Sutter County",,6,,1
+"California","Tehama County",5,4,,
+"California","Tulare County",55,47,4,4
+"California","Tuolumne County",2,2,,1
+"California","Ventura County",44,142,13,2
+"California","Yolo County",24,84,1,5
+"California","Yuba County",9,5,,
+"New York","Albany County",76,86,12,9
+"New York","Allegany County",1,4,,
+"New York","Broome County",27,49,5,2
+"New York","Cattaraugus County",5,8,2,1
+"New York","Cayuga County",10,18,1,
+"New York","Chautauqua County",11,26,1,
+"New York","Chemung County",16,42,4,3
+"New York","Chenango County",1,6,,
+"New York","Clinton County",12,6,,
+"New York","Columbia County",6,3,,1
+"New York","Cortland County",1,4,,
+"New York","Delaware County",2,2,,1
+"New York","Dutchess County",33,75,4,8
+"New York","Erie County",340,439,51,38
+"New York","Essex County",3,4,,
+"New York","Franklin County",1,9,1,1
+"New York","Fulton County",8,7,1,
+"New York","Genesee County",5,11,2,
+"New York","Greene County",4,12,,7
+"New York","Herkimer County",2,9,,
+"New York","Jefferson County",6,9,1,
+"New York","Kings County",2165,4745,356,212
+"New York","Lewis County",9,4,1,1
+"New York","Livingston County",3,7,,
+"New York","Madison County",3,8,,
+"New York","Monroe County",50,108,22,4
+"New York","Montgomery County",4,9,,
+"New York","Nassau County",75,123,8,5
+"New York","Niagara County",40,98,3,1
+"New York","Oneida County",27,43,1,
+"New York","Onondaga County",62,220,11,9
+"New York","Ontario County",7,12,2,1
+"New York","Orange County",28,43,6,2
+"New York","Orleans County",1,2,,
+"New York","Oswego County",3,4,,
+"New York","Otsego County",15,28,1,
+"New York","Putnam County",1,11,1,2
+"New York","Rensselaer County",20,29,2,3
+"New York","Rockland County",22,15,1,
+"New York","Saratoga County",51,164,3,3
+"New York","Schenectady County",15,36,1,2
+"New York","Schoharie County",1,1,,
+"New York","Seneca County",16,67,2,
+"New York","St. Lawrence County",5,3,1,
+"New York","Steuben County",7,12,2,1
+"New York","Suffolk County",80,145,1,3
+"New York","Sullivan County",17,45,,
+"New York","Tioga County",1,,,
+"New York","Tompkins County",27,37,4,5
+"New York","Ulster County",173,316,18,32
+"New York","Warren County",7,28,1,1
+"New York","Washington County",1,9,,1
+"New York","Wayne County",6,3,,
+"New York","Westchester County",78,141,9,1
+"New York","Wyoming County",,2,,
+"New York","Yates County",,1,,
+"Wyoming","Albany County",5,3,,2
+"Wyoming","Campbell County",7,15,,
+"Wyoming","Carbon County",,1,,
+"Wyoming","Converse County",2,2,,1
+"Wyoming","Crook County",,6,,
+"Wyoming","Fremont County",1,2,,
+"Wyoming","Goshen County",9,4,,1
+"Wyoming","Hot Springs County",,3,,
+"Wyoming","Johnson County",6,5,,
+"Wyoming","Laramie County",7,27,1,
+"Wyoming","Natrona County",6,30,1,
+"Wyoming","Park County",2,1,3,
+"Wyoming","Platte County",2,1,,
+"Wyoming","Sheridan County",5,9,,2
+"Wyoming","Sublette County",1,,,
+"Wyoming","Sweetwater County",2,2,,
+"Wyoming","Teton County",1,6,,
+"Wyoming","Uinta County",1,5,,
+"Wyoming","Washakie County",2,3,1,
+"Michigan","Allegan County",7,3,,
+"Michigan","Alpena County",2,2,,
+"Michigan","Arenac County",,2,,
+"Michigan","Barry County",,1,,
+"Michigan","Bay County",8,14,3,1
+"Michigan","Benzie County",,1,,
+"Michigan","Berrien County",15,12,6,1
+"Michigan","Calhoun County",18,29,1,1
+"Michigan","Cass County",3,1,1,
+"Michigan","Charlevoix County",1,2,1,
+"Michigan","Clinton County",1,,1,
+"Michigan","Crawford County",1,,,
+"Michigan","Delta County",3,1,,
+"Michigan","Dickinson County",11,13,,
+"Michigan","Eaton County",2,2,,
+"Michigan","Emmet County",,5,,
+"Michigan","Genesee County",78,118,7,7
+"Michigan","Gladwin County",,3,,1
+"Michigan","Gogebic County",,1,,
+"Michigan","Gratiot County",1,5,,
+"Michigan","Hillsdale County",2,3,,
+"Michigan","Houghton County",,1,,
+"Michigan","Huron County",2,,,
+"Michigan","Ingham County",237,103,11,9
+"Michigan","Ionia County",9,18,,
+"Michigan","Iosco County",,1,,
+"Michigan","Isabella County",8,9,1,1
+"Michigan","Jackson County",10,13,2,1
+"Michigan","Kalamazoo County",49,47,2,7
+"Michigan","Kalkaska County",,1,,
+"Michigan","Kent County",241,207,15,7
+"Michigan","Keweenaw County",4,1,1,2
+"Michigan","Lake County",1,2,,
+"Michigan","Lapeer County",4,7,,
+"Michigan","Leelanau County",20,46,4,4
+"Michigan","Lenawee County",3,3,,
+"Michigan","Livingston County",30,47,2,2
+"Michigan","Luce County",,2,1,
+"Michigan","Mackinac County",5,19,1,2
+"Michigan","Macomb County",30,42,4,2
+"Michigan","Manistee County",3,,,
+"Michigan","Marquette County",12,23,5,
+"Michigan","Mason County",3,,,
+"Michigan","Mecosta County",2,1,,
+"Michigan","Midland County",40,29,1,1
+"Michigan","Monroe County",6,4,,
+"Michigan","Montcalm County",,1,,
+"Michigan","Muskegon County",35,22,3,
+"Michigan","Newaygo County",3,3,,
+"Michigan","Oakland County",168,274,23,10
+"Michigan","Oceana County",2,4,,
+"Michigan","Oscoda County",,1,,
+"Michigan","Otsego County",2,1,,
+"Michigan","Ottawa County",19,16,2,1
+"Michigan","Saginaw County",20,12,2,
+"Michigan","Sanilac County",,1,,
+"Michigan","Schoolcraft County",,1,,
+"Michigan","Shiawassee County",4,11,,
+"Michigan","St. Clair County",8,15,1,1
+"Michigan","St. Joseph County",3,5,1,
+"Michigan","Tuscola County",1,5,,
+"Michigan","Van Buren County",6,2,,1
+"Michigan","Washtenaw County",168,156,11,12
+"Michigan","Wayne County",586,838,76,45
+"Michigan","Wexford County",2,,,
+"Maryland","Allegany County",4,6,,1
+"Maryland","Anne Arundel County",48,62,2,3
+"Maryland","Baltimore city",302,429,44,40
+"Maryland","Calvert County",,1,,
+"Maryland","Caroline County",,1,1,
+"Maryland","Carroll County",15,47,4,
+"Maryland","Cecil County",2,16,1,
+"Maryland","Charles County",1,1,,
+"Maryland","Dorchester County",2,4,,
+"Maryland","Frederick County",42,40,1,4
+"Maryland","Garrett County",1,,,
+"Maryland","Harford County",6,22,1,1
+"Maryland","Kent County",1,1,,
+"Maryland","Montgomery County",51,125,11,9
+"Maryland","Prince George's County",33,113,6,4
+"Maryland","Queen Anne's County",,4,,
+"Maryland","St. Mary's County",,6,,
+"Maryland","Talbot County",,9,,
+"Maryland","Washington County",21,41,1,1
+"Maryland","Wicomico County",4,14,2,
+"Maryland","Worcester County",2,5,,
+"Indiana","Allen County",33,78,7,6
+"Indiana","Bartholomew County",6,12,,
+"Indiana","Boone County",8,14,2,1
+"Indiana","Carroll County",,,1,
+"Indiana","Cass County",1,2,,
+"Indiana","Clark County",22,21,2,
+"Indiana","Clay County",,2,,1
+"Indiana","Clinton County",,2,,
+"Indiana","DeKalb County",,3,,
+"Indiana","Dearborn County",5,1,1,
+"Indiana","Decatur County",,3,,
+"Indiana","Delaware County",11,39,3,3
+"Indiana","Dubois County",2,1,,
+"Indiana","Elkhart County",6,9,,1
+"Indiana","Floyd County",16,5,1,
+"Indiana","Fulton County",1,2,,
+"Indiana","Gibson County",,1,,
+"Indiana","Greene County",,1,,
+"Indiana","Hamilton County",29,75,2,1
+"Indiana","Hancock County",1,5,,
+"Indiana","Hendricks County",3,26,2,1
+"Indiana","Henry County",2,2,,
+"Indiana","Howard County",5,4,,
+"Indiana","Huntington County",6,4,,
+"Indiana","Jackson County",3,3,1,
+"Indiana","Jasper County",,1,,
+"Indiana","Jay County",,2,,
+"Indiana","Johnson County",5,19,2,
+"Indiana","Knox County",1,6,,1
+"Indiana","Kosciusko County",1,7,,
+"Indiana","LaGrange County",,1,,
+"Indiana","LaPorte County",3,8,,3
+"Indiana","Lake County",29,68,5,2
+"Indiana","Lawrence County",4,5,,
+"Indiana","Madison County",,4,,
+"Indiana","Marion County",3,3,,
+"Indiana","Marshall County",,3,,
+"Indiana","Miami County",,2,,
+"Indiana","Monroe County",28,31,4,
+"Indiana","Montgomery County",4,11,1,
+"Indiana","Morgan County",4,7,,1
+"Indiana","Noble County",26,24,3,1
+"Indiana","Orange County",10,18,2,2
+"Indiana","Parke County",1,2,1,
+"Indiana","Pike County",,1,,
+"Indiana","Porter County",8,20,4,
+"Indiana","Posey County",,2,,
+"Indiana","Putnam County",1,2,,1
+"Indiana","Randolph County",1,,,
+"Indiana","Ripley County",,,1,
+"Indiana","Rush County",,1,,
+"Indiana","Scott County",,1,,
+"Indiana","Shelby County",3,4,1,1
+"Indiana","Spencer County",1,9,,2
+"Indiana","St. Joseph County",38,99,4,5
+"Indiana","Starke County",1,4,2,
+"Indiana","Steuben County",,2,,
+"Indiana","Tippecanoe County",17,31,2,2
+"Indiana","Tipton County",,4,,
+"Indiana","Vanderburgh County",24,35,1,
+"Indiana","Vermillion County",1,3,1,
+"Indiana","Vigo County",12,41,3,4
+"Indiana","Wabash County",,2,,
+"Indiana","Warren County",1,,,
+"Indiana","Warrick County",116,15,3,
+"Indiana","Washington County",8,5,,2
+"Indiana","Wayne County",5,31,1,2
+"Indiana","Wells County",,,,3
+"Indiana","White County",1,1,,
+"Indiana","Whitley County",,1,,
+"Alaska","Anchorage Municipality",59,115,9,9
+"Alaska","Bethel Census Area",,2,,2
+"Alaska","Chugach Census Area",3,1,,
+"Alaska","Fairbanks North Star Borough",19,45,1,5
+"Alaska","Kenai Peninsula Borough",6,23,,2
+"Alaska","Ketchikan Gateway Borough",1,1,,
+"Alaska","Kodiak Island Borough",4,1,,
+"Alaska","Matanuska-Susitna Borough",15,42,1,5
+"Alaska","Nome Census Area",,9,,
+"Alaska","Prince of Wales-Hyder Census Area",2,,,
+"Tennessee","Anderson County",54,6,3,
+"Tennessee","Bedford County",,9,,1
+"Tennessee","Benton County",3,2,,
+"Tennessee","Blount County",49,78,1,1
+"Tennessee","Bradley County",4,7,1,
+"Tennessee","Campbell County",1,1,,
+"Tennessee","Carroll County",,1,,
+"Tennessee","Carter County",3,3,,
+"Tennessee","Cheatham County",1,4,,
+"Tennessee","Claiborne County",,4,,
+"Tennessee","Cocke County",1,1,,
+"Tennessee","Coffee County",1,8,1,
+"Tennessee","Crockett County",,1,,
+"Tennessee","Cumberland County",4,7,,1
+"Tennessee","Davidson County",2,17,,1
+"Tennessee","DeKalb County",,2,,
+"Tennessee","Dickson County",2,5,,
+"Tennessee","Fayette County",,1,,
+"Tennessee","Franklin County",,2,,
+"Tennessee","Gibson County",2,12,,
+"Tennessee","Giles County",,4,,
+"Tennessee","Grainger County",3,2,,
+"Tennessee","Greene County",12,8,1,2
+"Tennessee","Hamblen County",14,5,,1
+"Tennessee","Hamilton County",104,191,14,12
+"Tennessee","Hardin County",2,2,,
+"Tennessee","Hawkins County",,1,,
+"Tennessee","Haywood County",,1,,
+"Tennessee","Henderson County",2,9,,
+"Tennessee","Henry County",,3,1,
+"Tennessee","Jefferson County",8,4,,
+"Tennessee","Johnson County",1,,,
+"Tennessee","Knox County",137,294,17,21
+"Tennessee","Lawrence County",,3,,
+"Tennessee","Lewis County",,1,,
+"Tennessee","Lincoln County",1,2,,
+"Tennessee","Loudon County",18,15,1,
+"Tennessee","Macon County",,6,,
+"Tennessee","Madison County",9,31,2,2
+"Tennessee","Marion County",,2,,
+"Tennessee","Maury County",7,5,1,
+"Tennessee","McMinn County",3,5,,
+"Tennessee","Montgomery County",24,24,4,1
+"Tennessee","Obion County",1,3,1,
+"Tennessee","Overton County",,1,,
+"Tennessee","Putnam County",3,14,1,3
+"Tennessee","Rhea County",,2,,
+"Tennessee","Roane County",6,7,,1
+"Tennessee","Robertson County",12,14,1,
+"Tennessee","Rutherford County",60,50,3,6
+"Tennessee","Sevier County",7,11,2,
+"Tennessee","Shelby County",189,323,26,20
+"Tennessee","Stewart County",,1,,
+"Tennessee","Sullivan County",12,35,5,1
+"Tennessee","Sumner County",6,17,5,
+"Tennessee","Tipton County",,1,,
+"Tennessee","Unicoi County",,1,,
+"Tennessee","Warren County",,2,,
+"Tennessee","Washington County",26,62,2,2
+"Tennessee","Weakley County",,3,,
+"Tennessee","White County",1,,1,
+"Tennessee","Williamson County",55,168,7,10
+"Tennessee","Wilson County",14,11,1,3
+"Texas","Anderson County",3,2,,
+"Texas","Andrews County",,5,,
+"Texas","Angelina County",4,4,,
+"Texas","Aransas County",5,5,,
+"Texas","Atascosa County",1,1,,
+"Texas","Austin County",2,,,
+"Texas","Bastrop County",3,20,,
+"Texas","Bee County",3,9,,2
+"Texas","Bell County",43,71,1,
+"Texas","Bexar County",507,898,40,48
+"Texas","Bosque County",,,,1
+"Texas","Bowie County",5,9,1,
+"Texas","Brazoria County",35,79,3,4
+"Texas","Brazos County",33,57,2,2
+"Texas","Brewster County",4,2,,
+"Texas","Brown County",19,6,,1
+"Texas","Burleson County",6,2,1,
+"Texas","Burnet County",2,2,,
+"Texas","Caldwell County",,2,,
+"Texas","Cameron County",24,29,1,1
+"Texas","Cass County",1,,,1
+"Texas","Chambers County",8,11,,
+"Texas","Cherokee County",3,9,,
+"Texas","Coleman County",,2,,
+"Texas","Collin County",161,347,25,16
+"Texas","Colorado County",2,5,1,
+"Texas","Comal County",25,28,,
+"Texas","Comanche County",1,1,,
+"Texas","Cooke County",,4,,
+"Texas","Coryell County",2,10,2,
+"Texas","Crane County",,1,,
+"Texas","Dallas County",979,1971,112,84
+"Texas","DeWitt County",1,,,
+"Texas","Denton County",82,181,3,10
+"Texas","Dimmit County",,2,,
+"Texas","Duval County",,1,,
+"Texas","Ector County",16,25,,
+"Texas","El Paso County",90,153,2,7
+"Texas","Ellis County",14,9,,
+"Texas","Erath County",6,7,1,
+"Texas","Fannin County",11,11,,
+"Texas","Fort Bend County",48,205,8,7
+"Texas","Franklin County",,1,,
+"Texas","Galveston County",68,99,6,5
+"Texas","Gillespie County",12,33,,
+"Texas","Gonzales County",,8,,1
+"Texas","Grayson County",11,17,1,1
+"Texas","Gregg County",11,24,,3
+"Texas","Grimes County",7,8,,
+"Texas","Guadalupe County",8,20,5,1
+"Texas","Hale County",2,,,
+"Texas","Hamilton County",1,,,
+"Texas","Hardin County",3,8,2,
+"Texas","Harris County",1211,2356,160,118
+"Texas","Harrison County",4,3,,
+"Texas","Hays County",32,59,6,3
+"Texas","Henderson County",3,1,,1
+"Texas","Hidalgo County",44,87,2,7
+"Texas","Hill County",2,,,
+"Texas","Hood County",4,8,,
+"Texas","Hopkins County",,2,,
+"Texas","Houston County",1,1,,
+"Texas","Howard County",1,3,,1
+"Texas","Hunt County",35,29,2,1
+"Texas","Hutchinson County",2,4,,
+"Texas","Irion County",,1,,
+"Texas","Jefferson County",18,25,1,1
+"Texas","Johnson County",34,116,3,
+"Texas","Jones County",1,,,
+"Texas","Kaufman County",1,23,1,
+"Texas","Kendall County",,8,1,1
+"Texas","Kerr County",1,13,,
+"Texas","La Salle County",,5,,
+"Texas","Lamar County",2,9,,2
+"Texas","Lampasas County",1,1,,
+"Texas","Liberty County",,3,,
+"Texas","Limestone County",,1,,
+"Texas","Llano County",,5,,
+"Texas","Lubbock County",30,70,5,1
+"Texas","Martin County",,1,,
+"Texas","Matagorda County",,2,,
+"Texas","Maverick County",,1,,1
+"Texas","McLennan County",32,71,4,2
+"Texas","Medina County",1,2,,
+"Texas","Midland County",20,88,5,9
+"Texas","Milam County",7,10,2,
+"Texas","Mitchell County",,5,,
+"Texas","Montague County",13,8,,1
+"Texas","Montgomery County",36,79,5,6
+"Texas","Moore County",,1,,
+"Texas","Morris County",1,,,
+"Texas","Nacogdoches County",6,4,,
+"Texas","Navarro County",1,,,
+"Texas","Nolan County",1,,,
+"Texas","Nueces County",27,72,11,3
+"Texas","Orange County",4,10,2,
+"Texas","Palo Pinto County",1,12,2,
+"Texas","Panola County",21,13,,
+"Texas","Parker County",10,15,,1
+"Texas","Polk County",4,62,,
+"Texas","Potter County",109,32,4,2
+"Texas","Presidio County",1,,,
+"Texas","Randall County",4,1,,1
+"Texas","Reeves County",,1,,
+"Texas","Rockwall County",11,41,2,
+"Texas","Rusk County",1,2,,
+"Texas","Sabine County",,2,,
+"Texas","San Jacinto County",2,3,,
+"Texas","San Patricio County",5,4,1,
+"Texas","Shelby County",1,1,,
+"Texas","Smith County",33,50,,1
+"Texas","Starr County",,2,,
+"Texas","Stephens County",,1,,
+"Texas","Sutton County",1,,,
+"Texas","Tarrant County",455,767,55,34
+"Texas","Taylor County",13,21,1,2
+"Texas","Titus County",,2,,
+"Texas","Tom Green County",11,14,,1
+"Texas","Travis County",864,1860,123,96
+"Texas","Trinity County",,1,,
+"Texas","Tyler County",,2,,
+"Texas","Upshur County",1,5,,
+"Texas","Uvalde County",16,6,3,
+"Texas","Val Verde County",11,9,1,
+"Texas","Van Zandt County",2,5,,
+"Texas","Victoria County",3,21,,1
+"Texas","Walker County",3,7,1,
+"Texas","Waller County",1,,,
+"Texas","Ward County",1,,,
+"Texas","Washington County",4,1,,
+"Texas","Webb County",8,16,,
+"Texas","Wharton County",,2,,
+"Texas","Wichita County",8,24,2,
+"Texas","Wilbarger County",2,,,1
+"Texas","Williamson County",57,103,4,5
+"Texas","Wilson County",,2,,
+"Texas","Wise County",6,23,1,2
+"Texas","Wood County",,2,,
+"Maine","Androscoggin County",4,27,,
+"Maine","Aroostook County",,3,,
+"Maine","Cumberland County",57,129,7,17
+"Maine","Franklin County",10,9,1,
+"Maine","Hancock County",,1,,
+"Maine","Kennebec County",1,7,,
+"Maine","Knox County",,2,,1
+"Maine","Oxford County",,10,,1
+"Maine","Penobscot County",10,28,3,1
+"Maine","Sagadahoc County",3,12,2,3
+"Maine","Somerset County",,1,,
+"Maine","Waldo County",,1,,
+"Maine","Washington County",1,4,1,
+"Maine","York County",12,21,1,
+"Minnesota","Anoka County",6,14,,1
+"Minnesota","Becker County",,1,,
+"Minnesota","Beltrami County",8,10,4,1
+"Minnesota","Benton County",1,2,,1
+"Minnesota","Big Stone County",,1,,
+"Minnesota","Brown County",6,2,1,
+"Minnesota","Carlton County",1,2,,
+"Minnesota","Carver County",8,12,1,
+"Minnesota","Cass County",,3,,
+"Minnesota","Chisago County",3,2,,
+"Minnesota","Clay County",8,16,,
+"Minnesota","Crow Wing County",,5,,
+"Minnesota","Dakota County",72,67,4,14
+"Minnesota","Dodge County",3,4,,
+"Minnesota","Douglas County",,1,1,
+"Minnesota","Faribault County",1,8,,2
+"Minnesota","Fillmore County",2,4,,
+"Minnesota","Freeborn County",7,3,,1
+"Minnesota","Goodhue County",1,7,,
+"Minnesota","Hennepin County",751,873,71,75
+"Minnesota","Hubbard County",,1,,
+"Minnesota","Isanti County",,2,,
+"Minnesota","Itasca County",1,3,1,
+"Minnesota","Kandiyohi County",1,10,1,1
+"Minnesota","Koochiching County",,2,,
+"Minnesota","Lac qui Parle County",1,1,1,
+"Minnesota","Lake County",2,4,1,
+"Minnesota","Le Sueur County",5,,1,
+"Minnesota","Martin County",,1,,
+"Minnesota","McLeod County",2,2,,
+"Minnesota","Meeker County",,2,,
+"Minnesota","Morrison County",,1,,
+"Minnesota","Mower County",1,11,,2
+"Minnesota","Nicollet County",5,14,2,
+"Minnesota","Nobles County",1,2,,
+"Minnesota","Olmsted County",8,13,3,3
+"Minnesota","Otter Tail County",,7,1,
+"Minnesota","Pine County",4,11,1,4
+"Minnesota","Polk County",2,4,1,
+"Minnesota","Ramsey County",57,52,7,14
+"Minnesota","Redwood County",1,4,,
+"Minnesota","Rice County",2,8,,
+"Minnesota","Rock County",,1,,
+"Minnesota","Roseau County",,2,1,
+"Minnesota","Scott County",12,21,3,3
+"Minnesota","Sherburne County",2,5,,
+"Minnesota","St. Louis County",43,72,4,6
+"Minnesota","Stearns County",9,4,1,
+"Minnesota","Steele County",,7,,
+"Minnesota","Stevens County",2,1,,
+"Minnesota","Todd County",,1,,
+"Minnesota","Wabasha County",1,3,,
+"Minnesota","Wadena County",,1,,
+"Minnesota","Waseca County",,1,1,
+"Minnesota","Washington County",56,57,2,5
+"Minnesota","Winona County",3,,1,
+"Minnesota","Wright County",4,10,1,
+"Kansas","Atchison County",1,,,
+"Kansas","Barton County",8,3,,1
+"Kansas","Butler County",2,5,2,
+"Kansas","Cowley County",3,7,,
+"Kansas","Douglas County",2,2,,
+"Kansas","Elk County",,3,1,
+"Kansas","Ellis County",9,10,,
+"Kansas","Finney County",1,2,,
+"Kansas","Ford County",2,6,,
+"Kansas","Harvey County",2,,,
+"Kansas","Hodgeman County",,2,,
+"Kansas","Johnson County",113,205,8,11
+"Kansas","Kingman County",,1,,
+"Kansas","Labette County",1,,,
+"Kansas","Leavenworth County",7,4,,1
+"Kansas","Lyon County",,1,,
+"Kansas","McPherson County",1,,,
+"Kansas","Miami County",,1,,
+"Kansas","Mitchell County",3,7,,
+"Kansas","Montgomery County",,6,,
+"Kansas","Nemaha County",,4,1,
+"Kansas","Neosho County",1,,,
+"Kansas","Norton County",1,,,
+"Kansas","Osborne County",56,32,3,5
+"Kansas","Ottawa County",3,1,,1
+"Kansas","Pratt County",1,,,
+"Kansas","Reno County",2,5,,
+"Kansas","Riley County",15,13,,1
+"Kansas","Rooks County",,1,,
+"Kansas","Russell County",1,2,1,1
+"Kansas","Saline County",2,5,,1
+"Kansas","Sedgwick County",127,134,7,10
+"Kansas","Seward County",,1,,
+"Kansas","Shawnee County",18,48,5,3
+"Kansas","Sherman County",1,1,,
+"Kansas","Smith County",1,,,
+"Kansas","Sumner County",,1,,
+"Kansas","Wabaunsee County",1,,,
+"Kansas","Washington County",1,,,
+"Kansas","Wyandotte County",11,12,2,3
+"New Jersey","Atlantic County",23,47,2,1
+"New Jersey","Bergen County",48,260,5,8
+"New Jersey","Burlington County",12,42,5,4
+"New Jersey","Camden County",61,82,6,12
+"New Jersey","Cape May County",6,12,4,
+"New Jersey","Cumberland County",3,12,1,2
+"New Jersey","Essex County",111,143,13,8
+"New Jersey","Gloucester County",2,13,2,
+"New Jersey","Hudson County",78,195,14,10
+"New Jersey","Hunterdon County",2,20,,
+"New Jersey","Mercer County",20,64,8,1
+"New Jersey","Middlesex County",57,107,4,7
+"New Jersey","Monmouth County",45,210,8,11
+"New Jersey","Morris County",57,132,4,2
+"New Jersey","Ocean County",57,105,6,8
+"New Jersey","Passaic County",21,79,10,8
+"New Jersey","Salem County",3,6,1,
+"New Jersey","Somerset County",2,20,2,
+"New Jersey","Sussex County",2,28,1,3
+"New Jersey","Union County",26,69,3,4
+"New Jersey","Warren County",1,9,1,1
+"Oklahoma","Atoka County",4,46,,1
+"Oklahoma","Bryan County",,1,,
+"Oklahoma","Canadian County",4,21,2,1
+"Oklahoma","Carter County",,6,3,
+"Oklahoma","Cherokee County",4,4,1,
+"Oklahoma","Cleveland County",36,71,9,5
+"Oklahoma","Comanche County",27,9,2,3
+"Oklahoma","Cotton County",,1,,
+"Oklahoma","Creek County",,2,,
+"Oklahoma","Delaware County",,,1,
+"Oklahoma","Garfield County",4,3,,
+"Oklahoma","Grady County",,2,,
+"Oklahoma","Jackson County",1,6,,
+"Oklahoma","Jefferson County",,2,,
+"Oklahoma","Kay County",2,3,,
+"Oklahoma","Kiowa County",5,,,
+"Oklahoma","Le Flore County",1,8,,
+"Oklahoma","Logan County",28,4,1,
+"Oklahoma","Marshall County",1,,,
+"Oklahoma","Mayes County",1,,,
+"Oklahoma","McClain County",,1,,
+"Oklahoma","McCurtain County",,3,,
+"Oklahoma","McIntosh County",,2,,1
+"Oklahoma","Muskogee County",3,17,2,
+"Oklahoma","Nowata County",1,,,
+"Oklahoma","Okfuskee County",,3,,
+"Oklahoma","Oklahoma County",200,291,27,26
+"Oklahoma","Okmulgee County",4,4,,
+"Oklahoma","Osage County",2,,1,
+"Oklahoma","Ottawa County",1,4,1,
+"Oklahoma","Pawnee County",11,5,,
+"Oklahoma","Payne County",2,12,1,3
+"Oklahoma","Pittsburg County",,3,1,
+"Oklahoma","Pontotoc County",4,4,,
+"Oklahoma","Pottawatomie County",5,,,
+"Oklahoma","Rogers County",7,5,,
+"Oklahoma","Seminole County",1,1,,
+"Oklahoma","Sequoyah County",4,,,
+"Oklahoma","Stephens County",2,3,,
+"Oklahoma","Tulsa County",132,253,16,10
+"Oklahoma","Wagoner County",2,2,,
+"Oklahoma","Washington County",2,32,,
+"Oklahoma","Woodward County",1,2,1,
+"Alabama","Autauga County",2,26,,
+"Alabama","Baldwin County",24,47,3,1
+"Alabama","Barbour County",3,1,,
+"Alabama","Blount County",1,,,
+"Alabama","Butler County",,1,,
+"Alabama","Calhoun County",8,6,1,
+"Alabama","Chambers County",,1,,
+"Alabama","Cherokee County",,3,,
+"Alabama","Chilton County",,1,,
+"Alabama","Clay County",,2,,
+"Alabama","Coffee County",,7,1,
+"Alabama","Colbert County",4,,,
+"Alabama","Covington County",2,,,
+"Alabama","Cullman County",,4,,
+"Alabama","Dale County",7,5,,1
+"Alabama","Dallas County",2,1,,
+"Alabama","Elmore County",,2,,
+"Alabama","Escambia County",,1,,
+"Alabama","Etowah County",3,5,2,
+"Alabama","Henry County",,1,,1
+"Alabama","Houston County",13,17,,2
+"Alabama","Jackson County",,2,,
+"Alabama","Jefferson County",103,214,15,21
+"Alabama","Lauderdale County",4,11,,1
+"Alabama","Lee County",13,48,1,5
+"Alabama","Limestone County",8,15,,1
+"Alabama","Madison County",106,146,8,14
+"Alabama","Marengo County",,1,,
+"Alabama","Marion County",3,,,
+"Alabama","Marshall County",5,6,,
+"Alabama","Mobile County",26,59,9,3
+"Alabama","Montgomery County",22,49,5,4
+"Alabama","Morgan County",10,13,,1
+"Alabama","Pike County",5,14,5,
+"Alabama","Russell County",1,1,,
+"Alabama","Shelby County",6,12,1,
+"Alabama","St. Clair County",3,2,,1
+"Alabama","Talladega County",2,12,,
+"Alabama","Tallapoosa County",1,6,,
+"Alabama","Tuscaloosa County",11,50,2,1
+"Alabama","Walker County",7,4,,
+"Georgia","Bacon County",,2,,
+"Georgia","Baldwin County",,2,,
+"Georgia","Barrow County",6,4,,
+"Georgia","Bartow County",8,11,1,2
+"Georgia","Berrien County",12,1,,
+"Georgia","Bryan County",1,4,,
+"Georgia","Bulloch County",25,27,1,1
+"Georgia","Burke County",1,1,,
+"Georgia","Butts County",7,1,,1
+"Georgia","Camden County",,4,1,2
+"Georgia","Carroll County",1,10,,1
+"Georgia","Catoosa County",6,2,,
+"Georgia","Chatham County",90,169,10,8
+"Georgia","Chattooga County",,4,,
+"Georgia","Cherokee County",28,74,4,4
+"Georgia","Clayton County",11,11,1,
+"Georgia","Cobb County",122,236,10,6
+"Georgia","Coffee County",10,15,,
+"Georgia","Colquitt County",,3,,
+"Georgia","Columbia County",1,7,,
+"Georgia","Coweta County",7,21,2,1
+"Georgia","Dawson County",52,42,3,
+"Georgia","DeKalb County",31,56,5,3
+"Georgia","Dougherty County",6,18,2,
+"Georgia","Douglas County",4,1,,
+"Georgia","Effingham County",1,2,,
+"Georgia","Elbert County",,1,,
+"Georgia","Fannin County",2,2,,
+"Georgia","Fayette County",10,30,3,1
+"Georgia","Floyd County",19,19,2,
+"Georgia","Forsyth County",12,16,,2
+"Georgia","Fulton County",1450,2004,187,130
+"Georgia","Gilmer County",1,9,,
+"Georgia","Glynn County",,6,1,
+"Georgia","Gordon County",2,4,,
+"Georgia","Grady County",,3,,
+"Georgia","Gwinnett County",56,129,9,2
+"Georgia","Habersham County",4,2,,
+"Georgia","Hall County",36,28,2,2
+"Georgia","Haralson County",1,,,
+"Georgia","Hart County",1,2,,
+"Georgia","Henry County",11,11,,2
+"Georgia","Houston County",4,9,,1
+"Georgia","Irwin County",1,,,
+"Georgia","Jackson County",1,3,1,1
+"Georgia","Jasper County",4,,,
+"Georgia","Jones County",,1,,
+"Georgia","Laurens County",,1,1,
+"Georgia","Liberty County",3,,1,2
+"Georgia","Lowndes County",7,22,2,2
+"Georgia","Lumpkin County",9,13,,
+"Georgia","Madison County",,1,,
+"Georgia","McIntosh County",2,,,
+"Georgia","Meriwether County",,1,,
+"Georgia","Mitchell County",7,1,,1
+"Georgia","Monroe County",,2,,
+"Georgia","Morgan County",2,3,1,
+"Georgia","Murray County",2,6,1,
+"Georgia","Muscogee County",29,26,4,1
+"Georgia","Newton County",6,7,2,1
+"Georgia","Oconee County",2,2,,1
+"Georgia","Paulding County",3,6,2,
+"Georgia","Peach County",2,2,,
+"Georgia","Pickens County",,1,,
+"Georgia","Pierce County",2,,,
+"Georgia","Polk County",3,4,,
+"Georgia","Rabun County",,2,,
+"Georgia","Screven County",1,,,
+"Georgia","Spalding County",1,4,,1
+"Georgia","Stephens County",,1,,
+"Georgia","Sumter County",,3,1,
+"Georgia","Terrell County",1,,,
+"Georgia","Thomas County",2,1,1,1
+"Georgia","Tift County",,5,2,
+"Georgia","Towns County",1,5,,
+"Georgia","Troup County",2,7,1,2
+"Georgia","Twiggs County",2,,1,
+"Georgia","Upson County",,1,,
+"Georgia","Walker County",3,11,1,
+"Georgia","Walton County",12,22,,
+"Georgia","Washington County",,1,,
+"Georgia","White County",2,8,,
+"Georgia","Whitfield County",3,7,,1
+"Georgia","Wilkes County",2,,,
+"Georgia","Worth County",2,,,
+"Oregon","Baker County",5,2,,
+"Oregon","Benton County",11,22,1,3
+"Oregon","Clackamas County",31,78,3,6
+"Oregon","Clatsop County",3,5,,
+"Oregon","Columbia County",,2,1,
+"Oregon","Coos County",20,22,1,2
+"Oregon","Crook County",1,1,,
+"Oregon","Curry County",1,8,,
+"Oregon","Deschutes County",30,78,7,3
+"Oregon","Douglas County",3,2,1,
+"Oregon","Harney County",,2,,
+"Oregon","Hood River County",1,9,1,
+"Oregon","Jackson County",34,50,4,4
+"Oregon","Jefferson County",3,6,,
+"Oregon","Josephine County",10,27,5,
+"Oregon","Klamath County",7,5,,
+"Oregon","Lane County",91,82,7,10
+"Oregon","Lincoln County",,3,,1
+"Oregon","Linn County",18,27,2,2
+"Oregon","Malheur County",,2,1,
+"Oregon","Marion County",44,41,4,2
+"Oregon","Multnomah County",625,715,61,112
+"Oregon","Polk County",9,5,,
+"Oregon","Tillamook County",,3,,
+"Oregon","Union County",1,2,,1
+"Oregon","Wasco County",1,3,,
+"Oregon","Washington County",72,110,13,14
+"Oregon","Yamhill County",24,22,,1
+"West Virginia","Barbour County",1,1,,
+"West Virginia","Berkeley County",14,11,1,
+"West Virginia","Boone County",,1,,
+"West Virginia","Brooke County",,1,,
+"West Virginia","Cabell County",14,64,1,4
+"West Virginia","Fayette County",5,12,,
+"West Virginia","Greenbrier County",7,4,1,
+"West Virginia","Hampshire County",,2,,
+"West Virginia","Hancock County",3,1,1,
+"West Virginia","Hardy County",,1,,
+"West Virginia","Harrison County",27,12,,
+"West Virginia","Jackson County",,1,,
+"West Virginia","Jefferson County",7,6,,2
+"West Virginia","Kanawha County",41,78,3,3
+"West Virginia","Lewis County",,2,,
+"West Virginia","Logan County",1,4,1,
+"West Virginia","Marion County",6,7,,3
+"West Virginia","Marshall County",,6,,
+"West Virginia","Mason County",,1,1,
+"West Virginia","Mercer County",3,2,1,
+"West Virginia","Mingo County",1,,,
+"West Virginia","Monongalia County",56,28,6,5
+"West Virginia","Nicholas County",,1,,
+"West Virginia","Ohio County",7,16,,
+"West Virginia","Preston County",,1,,
+"West Virginia","Putnam County",3,5,,
+"West Virginia","Raleigh County",3,8,,
+"West Virginia","Roane County",,1,,
+"West Virginia","Summers County",,2,,
+"West Virginia","Upshur County",,3,,
+"West Virginia","Wayne County",2,,,1
+"West Virginia","Wood County",7,11,1,2
+"North Dakota","Barnes County",1,,,
+"North Dakota","Burleigh County",5,7,,1
+"North Dakota","Cass County",28,68,5,4
+"North Dakota","Cavalier County",,1,,
+"North Dakota","Divide County",,,1,
+"North Dakota","Foster County",2,,,1
+"North Dakota","Grand Forks County",14,10,2,
+"North Dakota","Mercer County",,1,,
+"North Dakota","Mountrail County",1,,,
+"North Dakota","Nelson County",,,,1
+"North Dakota","Pierce County",,1,,
+"North Dakota","Richland County",1,,,
+"North Dakota","Stark County",,4,,
+"North Dakota","Ward County",18,44,2,1
+"North Dakota","Williams County",,4,,
+"Massachusetts","Barnstable County",21,40,,
+"Massachusetts","Berkshire County",16,50,1,1
+"Massachusetts","Bristol County",27,85,,4
+"Massachusetts","Dukes County",4,5,,1
+"Massachusetts","Essex County",46,130,7,8
+"Massachusetts","Franklin County",31,9,1,1
+"Massachusetts","Hampden County",53,144,,4
+"Massachusetts","Hampshire County",29,41,4,3
+"Massachusetts","Middlesex County",205,492,52,43
+"Massachusetts","Nantucket County",14,6,,1
+"Massachusetts","Norfolk County",36,92,9,10
+"Massachusetts","Plymouth County",16,115,3,2
+"Massachusetts","Suffolk County",705,1489,107,88
+"Massachusetts","Worcester County",65,130,19,9
+"Wisconsin","Barron County",4,,,
+"Wisconsin","Bayfield County",1,11,,
+"Wisconsin","Brown County",47,104,3,5
+"Wisconsin","Chippewa County",14,15,3,
+"Wisconsin","Clark County",,2,,1
+"Wisconsin","Columbia County",1,2,,1
+"Wisconsin","Crawford County",1,4,,
+"Wisconsin","Dane County",226,381,22,11
+"Wisconsin","Dodge County",2,26,1,
+"Wisconsin","Door County",22,3,,1
+"Wisconsin","Douglas County",3,5,,
+"Wisconsin","Dunn County",2,3,,
+"Wisconsin","Eau Claire County",8,14,2,1
+"Wisconsin","Fond du Lac County",21,6,,
+"Wisconsin","Grant County",,3,,
+"Wisconsin","Green County",5,2,,
+"Wisconsin","Iowa County",,6,,
+"Wisconsin","Jefferson County",9,9,1,
+"Wisconsin","Juneau County",,2,,
+"Wisconsin","Kenosha County",23,44,4,1
+"Wisconsin","La Crosse County",35,28,1,
+"Wisconsin","Lafayette County",,2,,
+"Wisconsin","Langlade County",,2,,
+"Wisconsin","Manitowoc County",,2,,
+"Wisconsin","Marathon County",22,32,2,
+"Wisconsin","Marinette County",1,2,1,
+"Wisconsin","Milwaukee County",15,15,2,2
+"Wisconsin","Monroe County",6,7,1,
+"Wisconsin","Oconto County",,1,,
+"Wisconsin","Oneida County",,3,1,
+"Wisconsin","Outagamie County",13,7,1,1
+"Wisconsin","Ozaukee County",11,11,,
+"Wisconsin","Pierce County",,6,1,
+"Wisconsin","Portage County",15,2,,
+"Wisconsin","Racine County",13,25,1,2
+"Wisconsin","Richland County",,3,,
+"Wisconsin","Rock County",22,34,1,
+"Wisconsin","Rusk County",,2,,
+"Wisconsin","Sauk County",17,23,5,
+"Wisconsin","Sawyer County",,1,,
+"Wisconsin","Shawano County",8,5,,
+"Wisconsin","Sheboygan County",9,19,3,1
+"Wisconsin","St. Croix County",9,14,1,1
+"Wisconsin","Trempealeau County",,1,,
+"Wisconsin","Vernon County",6,4,1,
+"Wisconsin","Vilas County",4,,,
+"Wisconsin","Walworth County",5,14,1,
+"Wisconsin","Washington County",10,13,3,1
+"Wisconsin","Waukesha County",302,506,38,33
+"Wisconsin","Waupaca County",8,13,2,
+"Wisconsin","Waushara County",,4,1,
+"Wisconsin","Winnebago County",37,79,3,5
+"Wisconsin","Wood County",5,9,,1
+"Arkansas","Baxter County",1,1,1,
+"Arkansas","Benton County",54,57,8,2
+"Arkansas","Boone County",1,1,,
+"Arkansas","Carroll County",3,4,1,
+"Arkansas","Clark County",,4,,
+"Arkansas","Cleburne County",,1,,
+"Arkansas","Conway County",9,,,
+"Arkansas","Craighead County",18,13,2,2
+"Arkansas","Crawford County",5,10,,
+"Arkansas","Crittenden County",,1,,1
+"Arkansas","Drew County",,22,,
+"Arkansas","Faulkner County",31,24,2,3
+"Arkansas","Franklin County",,1,,1
+"Arkansas","Garland County",9,15,1,
+"Arkansas","Greene County",,,1,
+"Arkansas","Hempstead County",,1,,
+"Arkansas","Hot Spring County",,1,,2
+"Arkansas","Independence County",,2,,
+"Arkansas","Jefferson County",,2,,
+"Arkansas","Johnson County",,1,,
+"Arkansas","Lawrence County",,2,,
+"Arkansas","Logan County",2,,2,
+"Arkansas","Lonoke County",4,19,,
+"Arkansas","Miller County",1,9,,
+"Arkansas","Mississippi County",,1,,
+"Arkansas","Perry County",,2,,
+"Arkansas","Polk County",,1,,
+"Arkansas","Pope County",1,4,,
+"Arkansas","Pulaski County",64,131,8,5
+"Arkansas","Randolph County",,1,,
+"Arkansas","Saline County",3,15,1,2
+"Arkansas","Sebastian County",8,31,,2
+"Arkansas","Sevier County",,1,,
+"Arkansas","Sharp County",1,1,,
+"Arkansas","Stone County",1,,,
+"Arkansas","Union County",2,1,,
+"Arkansas","Washington County",22,42,2,2
+"Arkansas","White County",5,8,,
+"Arkansas","Yell County",,11,,
+"Montana","Beaverhead County",1,,,
+"Montana","Cascade County",4,6,,2
+"Montana","Dawson County",,1,,
+"Montana","Fergus County",1,,,
+"Montana","Flathead County",16,28,1,2
+"Montana","Gallatin County",21,51,16,3
+"Montana","Glacier County",1,,,
+"Montana","Jefferson County",,1,,
+"Montana","Lake County",,,1,
+"Montana","Lewis and Clark County",10,19,2,3
+"Montana","Madison County",,1,,
+"Montana","Missoula County",18,34,1,3
+"Montana","Park County",1,1,,
+"Montana","Ravalli County",4,13,,
+"Montana","Richland County",,1,,
+"Montana","Stillwater County",,1,,
+"Montana","Yellowstone County",28,69,5,
+"New Hampshire","Belknap County",3,2,,
+"New Hampshire","Carroll County",2,5,,
+"New Hampshire","Cheshire County",12,21,2,1
+"New Hampshire","Coos County",1,,,
+"New Hampshire","Grafton County",3,17,,3
+"New Hampshire","Hillsborough County",111,157,22,11
+"New Hampshire","Merrimack County",30,26,,2
+"New Hampshire","Rockingham County",81,117,1,1
+"New Hampshire","Strafford County",19,27,1,4
+"New Hampshire","Sullivan County",1,7,1,
+"New Mexico","Bernalillo County",247,241,21,21
+"New Mexico","Chaves County",2,8,,
+"New Mexico","Colfax County",1,8,,
+"New Mexico","Curry County",7,6,,
+"New Mexico","DoÃ±a Ana County",18,26,3,1
+"New Mexico","Eddy County",7,22,,4
+"New Mexico","Grant County",,,,1
+"New Mexico","Lea County",1,3,,
+"New Mexico","Lincoln County",5,2,,1
+"New Mexico","Luna County",,6,1,1
+"New Mexico","McKinley County",4,5,,
+"New Mexico","Otero County",4,5,,1
+"New Mexico","Quay County",5,1,,
+"New Mexico","San Juan County",4,6,1,
+"New Mexico","San Miguel County",6,9,,
+"New Mexico","Sandoval County",29,50,3,2
+"New Mexico","Santa Fe County",80,65,6,3
+"New Mexico","Sierra County",3,20,3,3
+"New Mexico","Taos County",3,13,,
+"New Mexico","Valencia County",3,2,,
+"Iowa","Black Hawk County",7,21,2,
+"Iowa","Boone County",,1,,1
+"Iowa","Bremer County",,2,1,
+"Iowa","Buena Vista County",,1,,
+"Iowa","Carroll County",1,1,3,
+"Iowa","Cass County",,1,2,
+"Iowa","Cedar County",,1,,
+"Iowa","Cerro Gordo County",2,9,,
+"Iowa","Chickasaw County",2,3,,
+"Iowa","Clarke County",1,,,
+"Iowa","Clinton County",3,11,,
+"Iowa","Dallas County",8,12,2,1
+"Iowa","Dubuque County",40,38,1,
+"Iowa","Emmet County",2,1,,
+"Iowa","Fayette County",1,6,,
+"Iowa","Floyd County",,7,,
+"Iowa","Fremont County",,2,,
+"Iowa","Hamilton County",,1,,
+"Iowa","Hardin County",,1,,
+"Iowa","Harrison County",,3,,
+"Iowa","Henry County",,2,,
+"Iowa","Humboldt County",,1,,
+"Iowa","Jasper County",3,2,,1
+"Iowa","Jefferson County",1,1,1,
+"Iowa","Johnson County",44,43,1,4
+"Iowa","Jones County",,1,,
+"Iowa","Keokuk County",1,,,
+"Iowa","Lee County",1,,,
+"Iowa","Linn County",32,78,4,5
+"Iowa","Madison County",1,3,,
+"Iowa","Marion County",,2,,
+"Iowa","Marshall County",,2,,
+"Iowa","Mills County",3,3,,
+"Iowa","Monroe County",,,,1
+"Iowa","Muscatine County",6,15,2,
+"Iowa","Plymouth County",1,1,,
+"Iowa","Polk County",149,207,29,17
+"Iowa","Pottawattamie County",4,12,,
+"Iowa","Poweshiek County",1,,,
+"Iowa","Scott County",24,33,3,
+"Iowa","Shelby County",1,,,
+"Iowa","Sioux County",,7,,
+"Iowa","Story County",11,5,,3
+"Iowa","Wapello County",2,,,
+"Iowa","Warren County",1,7,,
+"Iowa","Washington County",2,4,,2
+"Iowa","Webster County",3,5,,
+"Iowa","Winneshiek County",1,17,,
+"Iowa","Woodbury County",17,24,2,2
+"Utah","Box Elder County",2,7,1,
+"Utah","Cache County",14,15,,2
+"Utah","Davis County",26,69,3,2
+"Utah","Emery County",1,,,
+"Utah","Grand County",,1,1,
+"Utah","Iron County",13,11,,1
+"Utah","Morgan County",2,,,
+"Utah","Salt Lake County",310,414,21,34
+"Utah","Sanpete County",,1,,
+"Utah","Sevier County",,1,,
+"Utah","Summit County",31,24,,
+"Utah","Tooele County",2,3,,
+"Utah","Uintah County",2,4,,
+"Utah","Utah County",18,86,3,4
+"Utah","Wasatch County",,7,,
+"Utah","Washington County",4,12,,1
+"Utah","Weber County",17,50,,1
+"Rhode Island","Bristol County",1,10,,
+"Rhode Island","Kent County",23,43,1,3
+"Rhode Island","Newport County",6,35,1,
+"Rhode Island","Providence County",91,191,12,29
+"Rhode Island","Washington County",1,7,,1
+"South Dakota","Brookings County",4,6,1,
+"South Dakota","Brown County",4,9,2,
+"South Dakota","Brule County",,1,,
+"South Dakota","Butte County",,3,2,
+"South Dakota","Campbell County",,1,,
+"South Dakota","Codington County",,8,,1
+"South Dakota","Davison County",,2,,
+"South Dakota","Fall River County",1,1,,
+"South Dakota","Grant County",2,3,,
+"South Dakota","Hughes County",1,4,2,2
+"South Dakota","Jerauld County",,,1,
+"South Dakota","Lake County",,2,,
+"South Dakota","Lawrence County",4,2,,1
+"South Dakota","Lincoln County",,4,,
+"South Dakota","McCook County",1,1,,
+"South Dakota","Meade County",,4,,
+"South Dakota","Mellette County",1,1,,
+"South Dakota","Miner County",,2,,
+"South Dakota","Minnehaha County",60,138,15,9
+"South Dakota","Pennington County",21,23,1,
+"South Dakota","Potter County",,,,1
+"South Dakota","Union County",,6,,
+"South Dakota","Yankton County",1,1,1,1
+"South Dakota","Ziebach County",,,,1
+"Nevada","Churchill County",1,9,,1
+"Nevada","Clark County",968,2098,153,88
+"Nevada","Elko County",6,7,2,
+"Nevada","Humboldt County",,1,,
+"Nevada","Lyon County",3,4,,
+"Nevada","Washoe County",98,235,30,13
+"Nevada","White Pine County",1,,,
+"Arizona","Cochise County",27,38,4,2
+"Arizona","Coconino County",29,49,2,5
+"Arizona","Gila County",25,10,,1
+"Arizona","Graham County",,2,,
+"Arizona","La Paz County",,2,,
+"Arizona","Maricopa County",1432,2726,154,109
+"Arizona","Mohave County",60,52,2,2
+"Arizona","Navajo County",21,33,,
+"Arizona","Pima County",315,481,94,21
+"Arizona","Pinal County",32,53,,1
+"Arizona","Santa Cruz County",1,2,5,
+"Arizona","Yavapai County",93,98,1,2
+"Arizona","Yuma County",20,80,1,
+"District of Columbia","District of Columbia",3210,4728,340,343
+"Connecticut","Fairfield County",131,438,33,13
+"Connecticut","Hartford County",118,211,17,11
+"Connecticut","Litchfield County",11,30,1,
+"Connecticut","Middlesex County",30,27,4,2
+"Connecticut","New Haven County",149,246,9,13
+"Connecticut","New London County",21,30,2,2
+"Connecticut","Tolland County",5,8,,1
+"Connecticut","Windham County",1,6,,
+"Delaware","Kent County",49,68,2,
+"Delaware","New Castle County",57,87,6,8
+"Delaware","Sussex County",19,47,4,
